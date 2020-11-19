@@ -20,6 +20,10 @@
 
     <p class="text-center">salut salut...</p>
 
+
+    <p class="text-center alert-danger"> modif sur la git branch modif_index</p>
+
+    <img src="img/cdrce.PNG" alt="" style="width: 300px;" class="col-md-6 mx-auto" >
 </div>
 
       
